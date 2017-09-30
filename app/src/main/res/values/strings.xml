@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Tynny</string>
+    <string name="layout_rel_btn">绝对布局</string>
+    <string name="layout_frame_btn">帧布局</string>
 </resources>
